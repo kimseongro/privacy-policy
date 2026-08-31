@@ -20,6 +20,10 @@
 
 패키지명: com.navy.unitconverter
 
+### 4. 진풍향 진풍속 계산기 (NavyWind)
+
+패키지명: com.grumgold.windcalc
+
 ---
 
 ## 수집하는 정보
