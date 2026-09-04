@@ -24,6 +24,9 @@
 
 패키지명: com.grumgold.windcalc
 
+### 5. 해군 거리 계산기
+패키지명: com.grumgold.navycalc
+
 ---
 
 ## 수집하는 정보
